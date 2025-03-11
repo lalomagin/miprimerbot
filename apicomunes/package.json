@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.17.3",
+    "jsdom": "^19.0.0",
+    "moment": "^2.29.3",
+    "unzipper": "^0.10.11",
+    "uuid": "^8.3.2",
+	"redis": "^4.6.13"
+  }
+}
